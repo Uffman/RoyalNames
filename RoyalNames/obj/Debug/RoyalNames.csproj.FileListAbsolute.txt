@@ -1,0 +1,6 @@
+C:\TestProjects\SortingTest\RoyalNames\RoyalNames\bin\Debug\RoyalNames.exe.config
+C:\TestProjects\SortingTest\RoyalNames\RoyalNames\bin\Debug\RoyalNames.exe
+C:\TestProjects\SortingTest\RoyalNames\RoyalNames\bin\Debug\RoyalNames.pdb
+C:\TestProjects\SortingTest\RoyalNames\RoyalNames\obj\Debug\RoyalNames.csprojResolveAssemblyReference.cache
+C:\TestProjects\SortingTest\RoyalNames\RoyalNames\obj\Debug\RoyalNames.exe
+C:\TestProjects\SortingTest\RoyalNames\RoyalNames\obj\Debug\RoyalNames.pdb
